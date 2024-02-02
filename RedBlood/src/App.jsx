@@ -3,13 +3,14 @@
 // import viteLogo from '/vite.svg'
 import './App.css'
 import Home from './assets/Home'
+import Nav from './assets/Nav'
 
 function App() {
   // const [count, setCount] = useState(0)
 
   return (
     <>
-
+      {/* <Nav/> */}
       <Home/>
       {/* <div>
         <a href="https://vitejs.dev" target="_blank">
