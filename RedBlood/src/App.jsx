@@ -3,7 +3,7 @@
 // import viteLogo from '/vite.svg'
 import './App.css'
 import Home from './assets/Home'
-import Nav from './assets/Nav'
+// import Nav from './assets/Nav'
 
 function App() {
   // const [count, setCount] = useState(0)
